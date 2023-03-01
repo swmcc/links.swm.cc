@@ -1,17 +1,9 @@
-Link-in-bio for Craftzdog
-=========================
+# links.swm.cc
 
-https://links.craftz.dog/
+![thumbnail](./assets/thumbnail.png)
 
-![thumbnail](./thumb.jpg)
+## Description
+My links web site, all the kool kids have them.
+So I might as well try and be a kool kid! 
 
-[Video tutorial available here](https://youtu.be/u71pHOyvBp0).
-
-## License
-
-MIT by Takuya Matsuyama
-
-You can create your own link-in-bio page for free without notifying me by forking this project under the following conditions:
-
-- Add a link to [my homepage](https://www.craftz.dog/) anywhere
-- Do not use the Japanese garden picture
+Forked from [Craftzdog's](https://github.com/craftzdog/) [link-in-bio](https://github.com/craftzdog/link-in-bio) excellent repo.
